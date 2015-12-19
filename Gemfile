@@ -45,3 +45,36 @@ group :development do
   gem 'spring'
 end
 
+i15gg
+
+
+y2yp
+
+d2d
+escape
+
+:wq
+
+
+
+exit
+
+
+A
+A
+A
+A
+A
+
+A
+A
+B
+B
+B
+B
+A
+A
+A
+
+C
+
